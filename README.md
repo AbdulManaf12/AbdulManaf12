@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 <!-- Links to your social media accounts -->
 [1]: https://twitter.com/Abdul1Manaf
 [2]: https://www.linkedin.com/in/abdul-manaf-6493a3188
-[3]: https://abdulmanaf12.github.io/
+[3]: https://abdulmanaf12.github.io/ 
