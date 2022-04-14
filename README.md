@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning .Net-Framework and Algorithms.
+- 🌱 I’m currently learning Web Development and Artificial Intelligence.
 - 👀 I’m interested in Programming, Data Structures, and Mathematical Models.
 - 📫 How to reach me: [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2] .
 - My Portfolio: [![PortFolio][3.1]][3]
