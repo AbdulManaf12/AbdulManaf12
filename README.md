@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-<!-- Icons -->
+<!-- Icons --> 
 
 [1.2]: https://img.icons8.com/color/24/000000/twitter--v2.png
 [2.2]: https://img.icons8.com/color/24/000000/linkedin.png
