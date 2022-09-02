@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Bro/Manaf
 - ⚡ Fun fact: Googling....
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulManaf12)](https://github.com/AbdulManaf12/github-readme-stats)
 
 
 <!-- Icons --> 
