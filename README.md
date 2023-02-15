@@ -1,10 +1,10 @@
-👋 Hi, I'm @AbdulManaf12, a computer science student with a passion for AI, Deep Learning, and Robotics. I specialize in deploying Machine Learning models and have experience in training and researching models for object detection using YOLO. I am well-versed in Python libraries such as TensorFlow, Keras, OpenCV, and Pandas, NumPy, and Scikit-learn for data science.
+👋 Hi, I'm @AbdulManaf12[![][3.1]][3], a computer science student with a passion for AI, Deep Learning, and Robotics. I specialize in deploying Machine Learning models and have experience in training and researching models for object detection using YOLO. I am well-versed in Python libraries such as TensorFlow, Keras, OpenCV, and Pandas, NumPy, and Scikit-learn for data science.
 
 In addition to my deployment skills, I'm a problem solver who enjoys tackling complex challenges in AI and Deep Learning. As a researcher, I've contributed to the development of advanced algorithms for object detection using CNN, and I'm eager to continue exploring new ideas and approaches.
 
 Currently, I'm focusing on developing intelligent applications using AI and Deep Learning, and I've worked with robotics frameworks such as ROS and Gazebo. You can find some of my work on my portfolio at PortFolio.
 
-Feel free to reach out to me on Twitter or LinkedIn to discuss any opportunities or collaborations.
+Feel free to reach out to me on [![Twitter][1.2]][1] or [![LinkedIn][2.2]][2] to discuss any opportunities or collaborations.
 
 😄 Pronouns: He/Him
 
@@ -13,7 +13,7 @@ Feel free to reach out to me on Twitter or LinkedIn to discuss any opportunities
 <!-- Icons --> 
 [1.2]: https://img.icons8.com/color/24/000000/twitter--v2.png
 [2.2]: https://img.icons8.com/color/24/000000/linkedin.png
-[3.1]: https://img.icons8.com/external-flatart-icons-flat-flatarticons/24/000000/external-portfolio-contact-flatart-icons-flat-flatarticons.png
+[3.1]: https://img.icons8.com/color/24/000000/github.png
 
 <!-- Links to your social media accounts -->
 [1]: https://twitter.com/Abdul1Manaf
