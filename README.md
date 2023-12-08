@@ -1,12 +1,8 @@
-👋 Hi, I'm Abdul Manaf, a computer science graduate with a Bachelor's degree and a passion for AI and Deep Learning. I specialize in deploying Machine Learning models and have extensive experience in training and researching models for object detection using state-of-the-art algorithms. My expertise lies in the field of AI development and research.
+👋 Hi, I'm Abdul Manaf, a computer science graduate now working as a Research Associate on the HEC-sponsored project, "Post Flood Management System." Specializing in AI and Deep Learning, my focus is on deploying advanced models for object detection. Proficient in Python, TensorFlow, Keras, PyTorch, OpenCV, Pandas, NumPy, and Scikit-learn, I excel in optimizing algorithms for peak performance.
 
-I have a strong background in machine learning, and I am well-versed in Python libraries such as TensorFlow, Keras, PyTorch, OpenCV, Pandas, NumPy, and Scikit-learn. With my proficiency in these tools, I can efficiently develop and deploy intelligent systems powered by cutting-edge AI technologies.
+Actively seeking opportunities for growth, I'm exploring job prospects and pursuing scholarships for a Master's in AI abroad. With a passion for continuous learning, I aim to contribute to cutting-edge research and advance the field of AI.
 
-As a problem solver, I thrive on tackling complex challenges and finding innovative solutions. I have a keen eye for detail and a deep understanding of AI algorithms, enabling me to optimize and fine-tune models for maximum performance. My research contributions include the development of advanced algorithms for object detection, leveraging the power of convolutional neural networks (CNNs) to achieve state-of-the-art results.
-
-Currently, I am actively seeking opportunities to further enhance my knowledge and skills in the field of AI. I am actively looking for job opportunities and pursuing scholarships for a Master's degree in AI-related disciplines abroad. With my passion for AI development and my commitment to continuous learning, I am eager to contribute to cutting-edge research and drive advancements in the field.
-
-Beyond AI development, I possess a solid foundation in programming, research writing, and web development. I am proficient in the MERN (MongoDB, Express.js, React.js, Node.js) stack and have built robust and scalable web applications. This diverse skill set allows me to approach AI projects from a holistic perspective and deliver comprehensive solutions.
+Beyond AI, my skills extend to programming, and research writing. I have a solid foundation to approach AI projects comprehensively, delivering integrated solutions. Excited about contributing to impactful research, I bring a wealth of experience and a commitment to pushing the boundaries of AI applications.
 
 Feel free to reach out to me on [![Twitter][1.2]][1] or [![LinkedIn][2.2]][2] to discuss any opportunities or collaborations.
 
