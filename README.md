@@ -16,7 +16,7 @@ Feel free to reach out to me on [![Twitter][1.2]][1] or [![LinkedIn][2.2]][2] to
 [3.1]: https://img.icons8.com/color/24/000000/github.png
 
 <!-- Links to your social media accounts -->
-[1]: https://twitter.com/Abdul1Manaf
+[1]: https://twitter.com/AbdulManaf_12
 [2]: https://www.linkedin.com/in/abdul-manaf-6493a3188
 [3]: https://abdulmanaf12.github.io/ 
 
