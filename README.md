@@ -73,7 +73,7 @@
 💼 **[AI Finance Agent Team](https://manafai.pythonanywhere.com/finance_agent)** - Multi-agent financial intelligence  
 🔬 **[AI Research Agent](https://manafai.pythonanywhere.com/research_agent)** - GPT-4 powered research reports  
 🩺 **[Pediatric Wrist Detection](https://huggingface.co/spaces/AbdulManaf12/wrist-anomaly-detection)** - Medical imaging AI system  
-📝 **[LinkedInCraft](https://manafai.pythonanywhere.com/)** - AI-powered LinkedIn post generator  
+📝 **[LinkedInCraft](https://manafai.pythonanywhere.com/linkedin_post_generator)** - AI-powered LinkedIn post generator  
 
 ## 📝 Latest Publications
 
